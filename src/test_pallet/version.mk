@@ -1,0 +1,2 @@
+NAME	= ack
+VERSION	= 1.0
